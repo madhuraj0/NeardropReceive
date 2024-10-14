@@ -8,4 +8,5 @@ Disclaimer: This shortcut app was created using Tasker app factory following the
 >Option 1:
 >Action:
 >com.google.android.gms.RECEIVE_NEARBY
+>
 >Mime type: */*
