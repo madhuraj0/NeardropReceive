@@ -6,5 +6,6 @@ This is meant to function as an android client for [Neardrop](https://github.com
 
 Disclaimer: This shortcut app was created using Tasker app factory following the instructions given on Neardrop's github page:
 >Option 1:
->Action: >com.google.android.gms.RECEIVE_NEARBY
+>Action:
+>com.google.android.gms.RECEIVE_NEARBY
 >Mime type: */*
